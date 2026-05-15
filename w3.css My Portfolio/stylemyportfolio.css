@@ -1,0 +1,15 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    /* border:1px solid black; */
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    padding: 1px;
+    justify-content: space-around;
+    border-color: deeppink;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
